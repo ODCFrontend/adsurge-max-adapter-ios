@@ -30,7 +30,7 @@ let package = Package(
       name: "AdSurgeADNAdapterForMAX",
       url:
         "https://github.com/ODCFrontend/adsurge-max-adapter-ios/releases/download/2.0.200/AdSurgeADNAdapterForMAX.zip",
-      checksum: "908ef8e7eb59053dad669481658f5297b31eee316f9387ff87c7ca21583f71d1"
+      checksum: "41fd616449d36571935380f3e57a79146a83a7d34b7c93cfb387bc0448d58ffe"
     ),
   ]
 )
